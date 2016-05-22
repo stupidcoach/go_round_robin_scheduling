@@ -7,4 +7,4 @@ It can be used for competitions, pair-programming... or anything else scheduling
 Describe functionalities
 
 #About
-!http://gph.is/1Swjbyz
+![Go go gadget](http://i.giphy.com/MWmSBycs74Zy.gif)
